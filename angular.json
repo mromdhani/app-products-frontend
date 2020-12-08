@@ -124,5 +124,8 @@
       }
     }
   },
-  "defaultProject": "app-products-frontend"
+  "defaultProject": "app-products-frontend",
+  "cli": {
+    "analytics": false
+  }
 }
